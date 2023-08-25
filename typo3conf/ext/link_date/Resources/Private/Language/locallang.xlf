@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:link_date/Resources/Private/Language/locallang.xlf" date="2023-08-25T08:03:36Z" product-name="link_date">
+		<header/>
+		<body>
+			<trans-unit id="tx_linkdate_domain_model_links" resname="tx_linkdate_domain_model_links">
+				<source>Links</source>
+			</trans-unit>
+			<trans-unit id="tx_linkdate_domain_model_links.url" resname="tx_linkdate_domain_model_links.url">
+				<source>Url</source>
+			</trans-unit>
+			<trans-unit id="tx_linkdate_domain_model_links.name" resname="tx_linkdate_domain_model_links.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_linkdate_domain_model_links.month" resname="tx_linkdate_domain_model_links.month">
+				<source>Month</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
