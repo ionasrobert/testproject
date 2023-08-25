@@ -11,7 +11,7 @@ This guide will walk you through the steps to install TYPO3 using Docker Compose
 1. Clone the TYPO3 Docker Compose repository:
 
 ```bash
-   git clone 
+   git clone git@github.com:ionasrobert/testproject.git
 ```
 
 create a .env file on the root folder with the variables
